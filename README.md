@@ -11,7 +11,7 @@ A small Go client library for the `bore` TCP tunnel server. This is client-only 
 
 ## Installation
 
-Once published, update the module path in `go.mod` and install via:
+Install via:
 
 ```bash
 go get github.com/FrontMage/bore-go
