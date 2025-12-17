@@ -71,6 +71,14 @@ log.Printf("active proxies: %d", client.ActiveProxies())
 _ = client.Close()
 ```
 
+## Related
+
+- Upstream Rust project: https://github.com/ekzhang/bore
+
+## Keywords
+
+`bore`, `bore client`, `tcp tunnel`, `port forwarding`, `reverse proxy`, `nat traversal`, `localtunnel`, `ngrok`
+
 ## Notes
 
 - The default control port is `7835` (same as the Rust implementation).
